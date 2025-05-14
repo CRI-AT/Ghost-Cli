@@ -9,15 +9,19 @@ Tools for automating some tasks like ip-finder & geo-localisation in full CLI mo
 - [Usage](#usage)
 
 ## Installation
+- Upgrade & update pkg
 ```
 $ pkg upgrade && pkg update
 ```
+- Install Python & Pip
 ```
 $ pkg install python pip
 ```
+- Install pip libraries
 ```
 $ pip install request mechanize geopy
 ```
+- Clone this repo
 ```
 $ git clone https://github.com/CRI-AT/Ghost-Cli
 ```
