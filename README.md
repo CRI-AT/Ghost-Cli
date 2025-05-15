@@ -5,8 +5,15 @@ Tools edit the MOTD file in termux & linux terminal.
 ![Screenshot](Screenshot_20250514-210326_1.png)
 
 ## 📚 Tables of Contents
+- [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
+
+## Requirements
+- OS Android 7+
+- Termux
+- 50MB of storage
+- Basic level connaissance of python & bash
 
 ## Installation
 - Upgrade & update pkg
