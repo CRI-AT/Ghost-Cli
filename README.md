@@ -1,6 +1,6 @@
 # Ghost-Cli
 
-Tools for automating some tasks like ip-finder & geo-localisation in full CLI mood.
+Tools edit the MOTD file in termux & linux terminal.
 
 ![Screenshot](Screenshot_20250514-210326_1.png)
 
