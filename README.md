@@ -5,9 +5,9 @@ Tools edit the MOTD file in termux & linux terminal.
 ![Screenshot](Screenshot_20250514-210326_1.png)
 
 ## 📚 Tables of Contents
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
+[Requirements](#requirements)
+[Installation](#installation)
+[Usage](#usage)
 
 ## Requirements
 - OS Android 7+
