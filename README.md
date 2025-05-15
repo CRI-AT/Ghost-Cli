@@ -27,7 +27,7 @@ $ git clone https://github.com/CRI-AT/Ghost-Cli
 ```
 
 ## Usage
-- Run the main file of project with python
+Run the main file of project with python.
 ```
 $ python major.py
 ```
