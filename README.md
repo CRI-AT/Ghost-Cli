@@ -17,7 +17,7 @@ All right reserved.
 
 ## Installation (! Software not available now)
 
-### Via Git:
+** Via Git: **
  
 ```
 $ git clone https://github.com/CRI-AT/Ghost-Cli
