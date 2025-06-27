@@ -1,8 +1,9 @@
 # Ghost-Cli
 
-Tools edit the MOTD file in termux & linux terminal.
-
-![Screenshot](Screenshot_20250514-210326_1.png)
+Ghost is a tools to implement some type of
+algorithms written in python.
+Copyright (c) June 2025 Iri-manoa HJ,
+All right reserved.
 
 ## 📚 Tables of Contents
 - [Requirements](#requirements)
@@ -10,27 +11,22 @@ Tools edit the MOTD file in termux & linux terminal.
 - [Usage](#usage)
 
 ## Requirements
-- OS Android 7+
-- Termux
+- Any OS with terminal.
 - 50MB of storage
 - Basic level connaissance of python & bash
 
-## Installation
- Upgrade & update pkg
-```
-$ pkg upgrade && pkg update
-```
- Install Python & Pip
-```
-$ pkg install python pip
-```
- Install pip libraries
-```
-$ pip install request mechanize geopy
-```
- Clone this repo
+## Installation (! Software not available now)
+
+### Via Github:
+ 
 ```
 $ git clone https://github.com/CRI-AT/Ghost-Cli
+
+$ cd ghost
+
+$ dpkg -i ghost1-all.deb
+
+$ ghost
 ```
 
 ## Usage
